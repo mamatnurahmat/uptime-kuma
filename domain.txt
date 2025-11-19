@@ -1,0 +1,7 @@
+https://alt.qoin.id/health
+https://api.qoinhub.id/health
+https://payout-apipg.qoin.id/health
+https://e-wallet-api.qoin.id/health
+https://mini-api.qoin.id/health
+https://next-gen-e-wallet-api.qoin.id/health
+https://saas-api.qoin.id/health

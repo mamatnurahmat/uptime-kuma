@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:latest
+    container_name: uptime-kuma
+    restart: unless-stopped
+    volumes:
+      - ./uptime-kuma-data:/app/data
+    ports:
+      - "3001:3001"
+    environment:
+      - UPTIME_KUMA_PORT=3001
+    healthcheck:
+      test: ["CMD", "node", "extra/healthcheck.js"]
+      interval: 60s
+      timeout: 30s
+      retries: 3
+      start_period: 80s
+
