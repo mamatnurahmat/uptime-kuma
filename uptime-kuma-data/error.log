@@ -1,0 +1,4 @@
+[2025-11-20 14:24:03] [Error: insert into `heartbeat` (`down_count`, `duration`, `important`, `monitor_id`, `msg`, `status`, `time`) values (0, 73, true, 31, 'Request failed with status code 503', 0, '2025-11-20 07:18:16.080') - SQLITE_CONSTRAINT: FOREIGN KEY constraint failed] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}

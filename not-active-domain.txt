@@ -1,0 +1,12 @@
+https://dev-apipg.qoin.id/health
+https://dev-api.qoinplus.id/health
+https://dev-digital-id-apipg.qoin.id/health
+https://dev-loyalty-apipg.qoin.id/health
+https://dev-payout-api.qoinplus.id/health
+https://dev-sandbox-api.qoinplus.id/health
+https://dev-sandbox-payout-api.qoinplus.id/health
+https://dev-sandbox-payout-api.qoinhub.id/health
+https://staging-api.qoinplus.id/health
+https://staging-payout-api.qoinplus.id/health
+https://staging-sandbox-api.qoinplus.id/health
+
